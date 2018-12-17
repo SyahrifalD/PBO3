@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * NAMA : SYAHRIFAL DANI S
+ * KELAS : IF3
+ * NIM   : 10117093
  */
 package edu.SyahrifalDaniS.Latihanmvc.event;
 
